@@ -1,6 +1,6 @@
 import React from 'react';
 import './information.css';
-import { Feature } from '../../components/feature/Feature'
+import  Feature  from '../../components/feature/Feature'
 
 const Information = () => {
   return (
